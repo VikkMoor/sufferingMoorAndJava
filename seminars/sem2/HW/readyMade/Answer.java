@@ -36,6 +36,6 @@ class Answer {
         }
 
         Answer ans = new Answer();
-        System.out.println(ans.answer(QUERY, PARAMS));
+        System.out.println(answer(QUERY, PARAMS));
     }
 }
