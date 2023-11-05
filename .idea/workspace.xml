@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sqlReady">
-      <change beforePath="$PROJECT_DIR$/seminars/sem2/HW/templates/Answer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem2/HW/templates/Answer2.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sqlReady" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Answer">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.HW.readyMade.Answer" />
       <module name="sufferingMoorAndJava" />
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Calculator2" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.HW.templates.BubbleSort" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.templates.*" />
+          <option name="PATTERN" value="sem2.HW.templates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem1.HW.readyMade.Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Answer" />
+    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Calculator2" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem1.HW.templates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Answer" />
         <item itemvalue="Application.sem2.HW.templates.Answer2" />
         <item itemvalue="Application.sem2.HW.Answer2" />
         <item itemvalue="Application.Calculator2" />
-        <item itemvalue="Application.sem1.HW.readyMade.Answer" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +313,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699195374766</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="sqlReady">
+      <option name="closed" value="true" />
+      <created>1699195545479</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1699195545479</updated>
+    </task>
+    <task id="LOCAL-00025" summary="sqlReady">
+      <option name="closed" value="true" />
+      <created>1699195609102</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1699195609102</updated>
+    </task>
+    <task id="LOCAL-00026" summary="sqlReady">
+      <option name="closed" value="true" />
+      <created>1699195726780</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699195726780</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
