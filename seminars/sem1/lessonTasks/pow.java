@@ -6,10 +6,10 @@ public class pow {
     public static void main(String[] args) {
         int a = 2;
         int b = -4;
-        System.out.println(pow(a, b));
+        System.out.println(power(a, b));
     }
 
-    static double pow(int a, int b){
+    static double power(int a, int b){
         if (b == 0){
             return 1;
         }
