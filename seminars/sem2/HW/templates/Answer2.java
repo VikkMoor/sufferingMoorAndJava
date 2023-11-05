@@ -1,4 +1,4 @@
-package sem2.HW;
+package sem2.HW.templates;
 
 // given a sql query string, generate it "where" part, using StringBuilder
 // if the value is 'null' then the parameter should not be included in the request
