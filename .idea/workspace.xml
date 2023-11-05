@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="nameHours">
-      <change afterPath="$PROJECT_DIR$/seminars/sem1/lessonTasks/samenumsrow.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="numbersInRow">
+      <change afterPath="$PROJECT_DIR$/seminars/sem1/lessonTasks/equalToEnd1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.samenumsrow">
-    <configuration name="nameHours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.lessonTasks.nameHours" />
+  <component name="RunManager" selected="Application.equalToEnd1">
+    <configuration name="equalToEnd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.lessonTasks.equalToEnd1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -52,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semNew.sem1.lessonTasks.number" />
+    <configuration name="nameHours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.lessonTasks.nameHours" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="semNew.sem1.lessonTasks.*" />
+          <option name="PATTERN" value="sem1.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equalToEnd1" />
         <item itemvalue="Application.samenumsrow" />
         <item itemvalue="Application.nameHours" />
         <item itemvalue="Application.sem1.lessonTasks.number" />
         <item itemvalue="Application.sem1.lessonTasks.name" />
-        <item itemvalue="Application.number" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699168426468</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="numbersInRow">
+      <option name="closed" value="true" />
+      <created>1699168888674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699168888674</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +188,7 @@
     <MESSAGE value="restructure" />
     <MESSAGE value="unnecessaryRemove" />
     <MESSAGE value="nameHours" />
-    <option name="LAST_COMMIT_MESSAGE" value="nameHours" />
+    <MESSAGE value="numbersInRow" />
+    <option name="LAST_COMMIT_MESSAGE" value="numbersInRow" />
   </component>
 </project>
