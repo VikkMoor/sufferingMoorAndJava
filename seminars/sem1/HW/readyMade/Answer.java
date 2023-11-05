@@ -3,7 +3,7 @@ package sem1.HW.readyMade;
 
 class Answer {
     public void printPrimeNums() {
-        for (int i = 1; i < 1001; i++) {
+        for (int i = 2; i < 1001; i++) {
             int k = 0;
 
             for (int j = 2; j <= i; j++) {

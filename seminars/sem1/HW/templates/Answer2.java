@@ -2,7 +2,7 @@ package sem1.HW.templates;
 
 // To show prime numbers 1...1000
 
-public class Answer {
+public class Answer2 {
     public void printPrimeNums() {
         boolean isPrime;
         for (int i = 2; i < 1000; i++) {
@@ -21,7 +21,7 @@ public class Answer {
 
     public static void main(String[] args) {
 
-            Answer ans = new Answer();
+            Answer2 ans = new Answer2();
             ans.printPrimeNums();
     }
 }
