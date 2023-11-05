@@ -46,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Answer">
+  <component name="RunManager" selected="Application.sem2.HW.templates.Answer2">
     <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.HW.readyMade.Answer" />
       <module name="sufferingMoorAndJava" />
@@ -114,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Answer" />
         <item itemvalue="Application.sem2.HW.templates.Answer2" />
+        <item itemvalue="Application.Answer" />
         <item itemvalue="Application.sem2.HW.Answer2" />
         <item itemvalue="Application.Calculator2" />
         <item itemvalue="Application.sem1.HW.readyMade.Answer" />

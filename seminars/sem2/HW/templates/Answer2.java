@@ -3,7 +3,7 @@ package sem2.HW.templates;
 // given a sql query string, generate it "where" part, using StringBuilder
 // if the value is 'null' then the parameter should not be included in the request
 
-class Answer2 {
+public class Answer2 {
     public static StringBuilder answer(String QUERY, String PARAMS) {
         String paramsNew = PARAMS.replace('{',' ').replace('}', ' ');
         String[] params = paramsNew.split(",");
