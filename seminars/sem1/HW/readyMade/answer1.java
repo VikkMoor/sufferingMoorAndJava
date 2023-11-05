@@ -2,7 +2,7 @@ package sem1.HW.readyMade;
 
 //autotests triangle number (str 16 - n can be changed)
 
-public class answer {
+public class answer1 {
     public int countNTriangle(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
@@ -21,7 +21,7 @@ public class answer {
             n = Integer.parseInt(args[0]);
         }
         // Displaying the result on the screen in autotests:
-        answer ans = new answer();
+        answer1 ans = new answer1();
         int itresume_res = ans.countNTriangle(n);
         System.out.println(itresume_res);
     }
