@@ -1,4 +1,4 @@
-# sufferingMoorAndJava
+# SufferingMoorAndJava
 
 ## SEM1:
 ### Lesson tasks:
