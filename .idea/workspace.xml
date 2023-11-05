@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="primeTempl">
-      <change afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Answer.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="prime">
+      <change afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sem1.HW.readyMade.Answer">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Answer" />
       <module name="sufferingMoorAndJava" />
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Calculator" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bufreadertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.bufreadertest" />
+    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.sem1.HW.readyMade.Answer" />
-        <item itemvalue="Application.bufreadtest" />
         <item itemvalue="Application.Answer" />
+        <item itemvalue="Application.bufreadtest" />
         <item itemvalue="Application.answer1" />
-        <item itemvalue="Application.bufreadertest" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699192092210</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="prime">
+      <option name="closed" value="true" />
+      <created>1699192285614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699192285614</updated>
+    </task>
+    <task id="LOCAL-00015" summary="prime">
+      <option name="closed" value="true" />
+      <created>1699192430720</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699192430720</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +279,7 @@
     <MESSAGE value="bufferedworks!" />
     <MESSAGE value="answer" />
     <MESSAGE value="primeTempl" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeTempl" />
+    <MESSAGE value="prime" />
+    <option name="LAST_COMMIT_MESSAGE" value="prime" />
   </component>
 </project>
