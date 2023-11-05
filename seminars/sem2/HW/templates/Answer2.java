@@ -33,6 +33,6 @@ public class Answer2 {
         }
 
         Answer2 ans = new Answer2();
-        System.out.println(ans.answer(QUERY, PARAMS));
+        System.out.println(answer(QUERY, PARAMS));
     }
 }

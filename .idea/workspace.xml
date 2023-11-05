@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sqlTemplReady">
-      <change afterPath="$PROJECT_DIR$/seminars/sem2/HW/readyMade/Answer.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sqlReady">
+      <change beforePath="$PROJECT_DIR$/seminars/sem2/HW/templates/Answer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem2/HW/templates/Answer2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699195132923</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="sqlReady">
+      <option name="closed" value="true" />
+      <created>1699195237804</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1699195237804</updated>
+    </task>
+    <task id="LOCAL-00023" summary="sqlReady">
+      <option name="closed" value="true" />
+      <created>1699195374765</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1699195374766</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +348,7 @@
     <MESSAGE value="primes" />
     <MESSAGE value="calcTempl" />
     <MESSAGE value="sqlTemplReady" />
-    <option name="LAST_COMMIT_MESSAGE" value="sqlTemplReady" />
+    <MESSAGE value="sqlReady" />
+    <option name="LAST_COMMIT_MESSAGE" value="sqlReady" />
   </component>
 </project>
