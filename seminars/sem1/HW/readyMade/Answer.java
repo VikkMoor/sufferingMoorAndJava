@@ -1,7 +1,7 @@
 package sem1.HW.readyMade;
 //autotests bout prime numbers
 
-class Answer2 {
+class Answer {
     public void printPrimeNums() {
         for (int i = 1; i < 1001; i++) {
             int k = 0;
@@ -14,7 +14,7 @@ class Answer2 {
     }
 
     public static void main (String[]args){
-        Answer2 ans = new Answer2();
+        Answer ans = new Answer();
         ans.printPrimeNums();
     }
 }
