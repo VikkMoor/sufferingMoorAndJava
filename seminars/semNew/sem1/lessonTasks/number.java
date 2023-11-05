@@ -9,6 +9,6 @@ public class number {
 
         int number = sc.nextInt();
 
-        System.out.println("Number + 5: " + (number + 5));
+        System.out.println("Number + 5: " + (number + 5)); // If 31, so result: 36
     }
 }
