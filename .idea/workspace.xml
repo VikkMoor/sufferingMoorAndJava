@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="AnsTemp" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="primes">
+      <change afterPath="$PROJECT_DIR$/seminars/sem1/HW/templates/Calculator2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sem1.HW.readyMade.Answer">
+  <component name="RunManager" selected="Application.Calculator2">
     <configuration name="Answer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Answer2" />
       <module name="sufferingMoorAndJava" />
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
+    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Calculator2" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem1.HW.templates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator2" />
         <item itemvalue="Application.sem1.HW.readyMade.Answer" />
         <item itemvalue="Application.Answer2" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.bufreadtest" />
-        <item itemvalue="Application.answer1" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699193221947</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="primes">
+      <option name="closed" value="true" />
+      <created>1699193533628</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699193533628</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +305,7 @@
     <MESSAGE value="prime" />
     <MESSAGE value="calculator" />
     <MESSAGE value="AnsTemp" />
-    <option name="LAST_COMMIT_MESSAGE" value="AnsTemp" />
+    <MESSAGE value="primes" />
+    <option name="LAST_COMMIT_MESSAGE" value="primes" />
   </component>
 </project>
