@@ -6,7 +6,7 @@ public class Answer {
     public void printPrimeNums() {
         boolean isPrime;
         for (int i = 2; i < 1000; i++) {
-            isPrime = i == 1;
+            isPrime = false;
             for (int j = 2; j < 1000; j++) {
                 if (i >= j && i % j == 0) {
                     if (j == i) {
