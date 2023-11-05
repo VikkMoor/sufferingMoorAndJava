@@ -1,6 +1,7 @@
 package sem2.HW.readyMade;
 
 //given a sql query string, generate it "where" part, using StringBuilder
+// if the value is 'null' then the parameter should not be included in the request
 
 class Answer {
     public static StringBuilder answer(String QUERY, String PARAMS) {
