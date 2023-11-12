@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sqlReady" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="bubble">
+      <change afterPath="$PROJECT_DIR$/seminars/sem2/lessonTasks/loggerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="autotests" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,16 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java projects/javaSemNew",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
-  <component name="RunManager" selected="Application.BubbleSort">
+}]]></component>
+  <component name="RunManager" selected="Application.loggerExample">
     <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.HW.readyMade.Answer" />
       <module name="sufferingMoorAndJava" />
@@ -71,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.templates.Calculator2" />
+    <configuration name="loggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.loggerExample" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.templates.*" />
+          <option name="PATTERN" value="sem2.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loggerExample" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Answer" />
         <item itemvalue="Application.sem2.HW.templates.Answer2" />
         <item itemvalue="Application.sem2.HW.Answer2" />
-        <item itemvalue="Application.Calculator2" />
       </list>
     </recent_temporary>
   </component>
