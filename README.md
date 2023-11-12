@@ -17,11 +17,12 @@
 
 ## SEM2:
 ### Lesson tasks: 
-* task1: ;
-* task2: ;
-* task3: ;
-* task4: ;
+* task1: ???;
+* task2: ???;
+* task3: ???;
+* task4: ???;
 ### Homework:
-* task1: ;
-* task2: ;
-* task3: ;
+* Answer1: given a sql query string, generate it "where" part, using StringBuilder
+  (if the value is 'null' then the parameter should not be included in the request);
+* BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
+
