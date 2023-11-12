@@ -17,7 +17,7 @@
 
 ## SEM2:
 ### Lesson tasks: 
-* task1: ???;
+* loggerExample: some simple examples;
 * task2: ???;
 * task3: ???;
 * task4: ???;
