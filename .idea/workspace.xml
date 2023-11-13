@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem2task2">
-      <change afterPath="$PROJECT_DIR$/seminars/sem2/lessonTasks/zip.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="zip">
+      <change afterPath="$PROJECT_DIR$/seminars/sem2/lessonTasks/beautyPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +48,9 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.zip">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.HW.templates.BubbleSort" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem2.HW.templates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.loggerExample" />
+  <component name="RunManager" selected="Application.beautyPalindrome">
+    <configuration name="beautyPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.beautyPalindrome" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2point3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.task2point3" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem2.lessonTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.zip" />
       <module name="sufferingMoorAndJava" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.beautyPalindrome" />
+        <item itemvalue="Application.task2point3" />
         <item itemvalue="Application.zip" />
         <item itemvalue="Application.sem2task2" />
         <item itemvalue="Application.repl" />
-        <item itemvalue="Application.loggerExample" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699812998273</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="zip">
+      <option name="closed" value="true" />
+      <created>1699847332769</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1699847332769</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +410,7 @@
     <MESSAGE value="logger" />
     <MESSAGE value="readmelogger" />
     <MESSAGE value="sem2task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem2task2" />
+    <MESSAGE value="zip" />
+    <option name="LAST_COMMIT_MESSAGE" value="zip" />
   </component>
 </project>
