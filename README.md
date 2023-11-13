@@ -18,9 +18,9 @@
 ## SEM2:
 ### Lesson tasks: 
 * loggerExample: some simple examples;
-* task2: ???;
-* task3: ???;
-* task4: ???;
+* sem2task2: input even N (>0), symbols c1, c2, output string c1c2c1c2...N;
+* zip: make the string with each unique symbol and how much of them;
+* palindrome: made with one string replaces & reverse & so on;
 ### Homework:
 * Answer1: given a sql query string, generate it "where" part, using StringBuilder
   (if the value is 'null' then the parameter should not be included in the request);
