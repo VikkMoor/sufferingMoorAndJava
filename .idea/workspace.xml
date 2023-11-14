@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem2Ready">
-      <change afterPath="$PROJECT_DIR$/seminars/sem3/lessonTasks/listExample1.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="lists">
+      <change afterPath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem3/HW/templates/mergeSortTemp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -50,7 +51,7 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.listExample1">
+  <component name="RunManager" selected="Application.mergeSortTemp">
     <configuration name="beautyPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.beautyPalindrome" />
       <module name="sufferingMoorAndJava" />
@@ -77,6 +78,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.mergeSort" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeSortTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.mergeSortTemp" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.HW.templates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.sort" />
       <module name="sufferingMoorAndJava" />
@@ -90,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2point3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.task2point3" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem2.lessonTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.zip" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem2.lessonTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSortTemp" />
+        <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.listExample1" />
         <item itemvalue="Application.sort" />
         <item itemvalue="Application.beautyPalindrome" />
-        <item itemvalue="Application.task2point3" />
-        <item itemvalue="Application.zip" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699856460333</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="lists">
+      <option name="closed" value="true" />
+      <created>1699948532940</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1699948532941</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="name&amp;number" />
     <MESSAGE value="restructure" />
     <MESSAGE value="unnecessaryRemove" />
@@ -431,6 +439,7 @@
     <MESSAGE value="zip" />
     <MESSAGE value="palindrome1" />
     <MESSAGE value="sem2Ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem2Ready" />
+    <MESSAGE value="lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="lists" />
   </component>
 </project>

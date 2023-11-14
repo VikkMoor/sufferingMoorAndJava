@@ -9,7 +9,7 @@
 * EqualToEnd (1,2): move all given equal numbers to the end of the array;
 * RevSent: reverse words in a sentence;
 * Pow: raise number 'a' to the power 'b';
-### Homework:
+### Homework (autotests):
 * task1: just "hi, username!"; 
 * task2: show the maximum number of digits "1" in a row in array;
 * task3: move all given equal numbers to the end of the array;
@@ -21,7 +21,7 @@
 * sem2task2: input even N (>0), symbols c1, c2, output string c1c2c1c2...N;
 * zip: make the string with each unique symbol and how much of them;
 * palindrome: made with one string replaces & reverse & so on;
-### Homework:
+### Homework (autotests):
 * Answer1: given a sql query string, generate it "where" part, using StringBuilder
   (if the value is 'null' then the parameter should not be included in the request);
 * BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
@@ -33,7 +33,7 @@
 * listExample2: to fill the array and remove integers;
 * listExample3: to fill the list and remove integers;
 * shopBook: ;
-### Homework:
-* Answer1: given a sql query string, generate it "where" part, using StringBuilder
-  (if the value is 'null' then the parameter should not be included in the request);
-* BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
+### Homework (autotests):
+* MergeSort;
+* Answer: method for remove even numbers from list;
+* Answer2: to sort list and find min/max/average;
