@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="zip">
-      <change afterPath="$PROJECT_DIR$/seminars/sem2/lessonTasks/beautyPalindrome.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem2Ready">
+      <change afterPath="$PROJECT_DIR$/seminars/sem3/lessonTasks/listExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="autotests" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +50,7 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.beautyPalindrome">
+  <component name="RunManager" selected="Application.listExample1">
     <configuration name="beautyPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.beautyPalindrome" />
       <module name="sufferingMoorAndJava" />
@@ -62,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.repl" />
+    <configuration name="listExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.listExample1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem2.lessonTasks.*" />
+          <option name="PATTERN" value="sem3.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem2task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.sem2task2" />
+    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.sort" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem2.lessonTasks.*" />
+          <option name="PATTERN" value="sem3.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listExample1" />
+        <item itemvalue="Application.sort" />
         <item itemvalue="Application.beautyPalindrome" />
         <item itemvalue="Application.task2point3" />
         <item itemvalue="Application.zip" />
-        <item itemvalue="Application.sem2task2" />
-        <item itemvalue="Application.repl" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +375,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699847332769</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="palindrome1">
+      <option name="closed" value="true" />
+      <created>1699848169989</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699848169989</updated>
+    </task>
+    <task id="LOCAL-00032" summary="sem2Ready">
+      <option name="closed" value="true" />
+      <created>1699856460333</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1699856460333</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +429,8 @@
     <MESSAGE value="readmelogger" />
     <MESSAGE value="sem2task2" />
     <MESSAGE value="zip" />
-    <option name="LAST_COMMIT_MESSAGE" value="zip" />
+    <MESSAGE value="palindrome1" />
+    <MESSAGE value="sem2Ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem2Ready" />
   </component>
 </project>

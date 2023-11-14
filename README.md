@@ -26,3 +26,14 @@
   (if the value is 'null' then the parameter should not be included in the request);
 * BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
 
+
+## SEM3 (lists):
+### Lesson tasks:
+* listExample1: to fill and sort the list;
+* listExample2: to fill the array and remove integers;
+* listExample3: to fill the list and remove integers;
+* shopBook: ;
+### Homework:
+* Answer1: given a sql query string, generate it "where" part, using StringBuilder
+  (if the value is 'null' then the parameter should not be included in the request);
+* BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
