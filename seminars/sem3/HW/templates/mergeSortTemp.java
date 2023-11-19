@@ -53,6 +53,7 @@ class mergeSortTemp {
         int[] a;
 
         if (args.length == 0) {
+            // we can change these values and operator when check it in autotest:
             a = new int[]{5, 1, 6, 2, 3, 4, 7, 3};
         } else {
             a = Arrays.stream(args[0].split(", ")).mapToInt(Integer::parseInt).toArray();
