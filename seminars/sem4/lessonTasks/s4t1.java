@@ -9,7 +9,7 @@ import java.util.Scanner;
     Need to split the string by ~, save text's part into a linked list at position num.
     If print~num is entered, prints the string at position num in the linked list
     and removes it from the list.
- */
+*/
 
 public class s4t1 {
     public static void main(String[] args) {
