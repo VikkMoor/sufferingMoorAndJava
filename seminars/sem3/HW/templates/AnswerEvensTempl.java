@@ -31,7 +31,7 @@ class AnswerEvensTempl {
                     .toArray(Integer[]::new);
         }
 
-        sem3.HW.templates.AnswerEvensTempl ans = new sem3.HW.templates.AnswerEvensTempl();
+        AnswerEvensTempl ans = new AnswerEvensTempl();
         ans.removeEvenNumbers(arr);
     }
 }
