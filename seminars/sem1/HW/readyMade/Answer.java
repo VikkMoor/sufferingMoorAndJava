@@ -12,7 +12,7 @@ class Answer {
             if (k < 2) System.out.println(i);
         }
     }
-
+    // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main (String[]args){
         Answer ans = new Answer();
         ans.printPrimeNums();

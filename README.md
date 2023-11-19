@@ -13,6 +13,7 @@
 * Answer: to get prime numbers in 1...1000; 
 * Answer1: to get triangle number;
 * Calculator: calculator, hee hee;
+* Bufreadtest: just testing BufferedReader for myself;
 
 
 ## SEM2:

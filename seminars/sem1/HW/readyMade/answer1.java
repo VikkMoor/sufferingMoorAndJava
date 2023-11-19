@@ -11,6 +11,7 @@ public class answer1 {
         return sum;
     }
 
+    // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main(String[] args) {
         int n;
 
@@ -20,7 +21,7 @@ public class answer1 {
         } else {
             n = Integer.parseInt(args[0]);
         }
-        // Displaying the result on the screen in autotests:
+
         answer1 ans = new answer1();
         int itresume_res = ans.countNTriangle(n);
         System.out.println(itresume_res);

@@ -36,7 +36,7 @@ class Calculator2 {
     }
 
 
-
+    // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main(String[] args) {
         int a;
         char op;

@@ -49,6 +49,7 @@ class mergeSortTemp {
         return a;
     }
 
+    // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main(String[] args) {
         int[] a;
 

@@ -2,6 +2,8 @@ package sem1.HW.readyMade;
 
 //autotests calculator
 
+import java.io.BufferedReader;
+
 class Calculator {
     public int calculate(char op, int a, int b) {
         int ans = 0;
@@ -19,7 +21,7 @@ class Calculator {
         return ans;
     }
 
-
+    // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main(String[] args) {
         int a;
         char op;
