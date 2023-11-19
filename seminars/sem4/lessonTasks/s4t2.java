@@ -4,9 +4,14 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-// Same task with lil changes from the teacher ('print' - just for print + 'revert' added)
+/*
+  Make the console application that:
+  Receives strings from the user and 'remembers' them.
+  If 'print' is entered, the string is output like LIFO.
+  If 'revert' is entered, delete the previous text entered from memory.
+ */
 
-public class s4t1teacher {
+public class s4t2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> list = new LinkedList<>();
@@ -19,8 +24,8 @@ public class s4t1teacher {
                         System.out.println(s);
                     }
                     break;
-                case "revert": // the last entered text will be deleted (for example: one~0,
-                    // two~1, three~2, four~3, print, revert, print - four will be deleted)
+                case "revert": // the last entered text will be deleted (for example: one,
+                    // two, three, four, print, revert, print - four will be deleted)
                     list.remove(0);
                     break;
                 case "finish": // just finish ¯\_(ツ)_/¯

@@ -48,7 +48,10 @@
 * S4t1: Receives a string of the form like: "text~num".
   Need to split the string by ~, save text's part into a linked list at position 'num'.
   If print~num is entered, have to show the string at position 'num' in the list and remove it.
-* S4t1teacher: Same task with lil changes from the teacher ('print' - just for print + 'revert' added);
+* S4t2: Make the console application that:
+  Receives strings from the user and 'remembers' them.
+  If 'print' is entered, the string is output like LIFO.
+  If 'revert' is entered, delete the previous text entered from memory.
 * Task3: ;
 ### Homework (autotests):
 * ;

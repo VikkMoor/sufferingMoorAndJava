@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="s4t1edited">
-      <change afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t1teacher.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmes4t1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t1teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.s4t1teacher">
+  <component name="RunManager" selected="Application.s4t2">
     <configuration name="AnswerEvensTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.AnswerEvensTempl" />
       <module name="sufferingMoorAndJava" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s4t1teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t1teacher" />
+    <configuration name="s4t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t2" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -118,7 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.s4t1teacher" />
+        <item itemvalue="Application.s4t2" />
         <item itemvalue="Application.s4t1" />
         <item itemvalue="Application.analyzeNumsTempl" />
         <item itemvalue="Application.AnswerEvensTempl" />
@@ -503,7 +503,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700401268438</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="s4t1teacher">
+      <option name="closed" value="true" />
+      <created>1700402415564</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700402415564</updated>
+    </task>
+    <task id="LOCAL-00048" summary="readmes4t1">
+      <option name="closed" value="true" />
+      <created>1700403101746</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700403101746</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,8 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AnsTemp" />
-    <MESSAGE value="primes" />
     <MESSAGE value="calcTempl" />
     <MESSAGE value="sqlTemplReady" />
     <MESSAGE value="sqlReady" />
@@ -543,6 +557,8 @@
     <MESSAGE value="sem3analyzeTempl" />
     <MESSAGE value="s4t1" />
     <MESSAGE value="s4t1edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="s4t1edited" />
+    <MESSAGE value="s4t1teacher" />
+    <MESSAGE value="readmes4t1" />
+    <option name="LAST_COMMIT_MESSAGE" value="readmes4t1" />
   </component>
 </project>
