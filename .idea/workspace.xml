@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AnswerEvens">
+  <component name="RunManager" selected="Application.AnswerEvensTempl">
     <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.Answer" />
       <module name="sufferingMoorAndJava" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
+    <configuration name="AnswerEvensTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.AnswerEvensTempl" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem3.HW.templates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.mergeSort" />
+    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="PATTERN" value="sem1.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnswerEvensTempl" />
         <item itemvalue="Application.AnswerEvens" />
         <item itemvalue="Application.Answer" />
         <item itemvalue="Application.answer1" />
         <item itemvalue="Application.mergeSortTemp" />
-        <item itemvalue="Application.mergeSort" />
       </list>
     </recent_temporary>
   </component>
