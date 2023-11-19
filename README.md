@@ -30,8 +30,7 @@
 ## SEM3 (lists):
 ### Lesson tasks:
 * listExample1: to fill the list with random numbers + sort;
-* listExample2: to fill the array and remove integers;
-* listExample3: to fill the list and remove integers;
+* listExample2/3: to fill the list and remove integers;
 * shopBook: ;
 ### Homework (autotests):
 * MergeSort;
