@@ -45,7 +45,10 @@
 
 ## SEM4:
 ### Lesson tasks:
-* Task1: ;
+* S4t1: Receives a string of the form like: "text~num".
+  Need to split the string by ~, save text's part into a linked list at position 'num'.
+  If print~num is entered, have to show the string at position 'num' in the list
+  and remove it.
 * Task2: ;
 * Task3: ;
 ### Homework (autotests):
