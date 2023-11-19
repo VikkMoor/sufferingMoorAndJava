@@ -10,9 +10,9 @@
 * RevSent: reverse words in a sentence;
 * Pow: raise number 'a' to the power 'b';
 ### Homework (autotests):
-* task1: just "hi, username!"; 
-* task2: show the maximum number of digits "1" in a row in array;
-* task3: move all given equal numbers to the end of the array;
+* Answer: to get prime numbers in 1...1000; 
+* Answer1: to get triangle number;
+* Calculator: calculator, hee hee;
 
 
 ## SEM2:

@@ -1,6 +1,6 @@
 package sem1.HW.readyMade;
 
-//autotests triangle number (str 16 - n can be changed)
+//autotests get triangle number
 
 public class answer1 {
     public int countNTriangle(int n) {
