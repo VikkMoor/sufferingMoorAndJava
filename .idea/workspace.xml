@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="lists">
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem1HW">
+      <change afterPath="$PROJECT_DIR$/seminars/sem3/lessonTasks/listExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +50,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.mergeSortTemp">
-    <configuration name="beautyPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem2.lessonTasks.beautyPalindrome" />
+  <component name="RunManager" selected="Application.listExample2">
+    <configuration name="listExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.listExample1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem2.lessonTasks.*" />
+          <option name="PATTERN" value="sem3.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.listExample1" />
+    <configuration name="listExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.listExample2" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listExample2" />
+        <item itemvalue="Application.listExample1" />
         <item itemvalue="Application.mergeSortTemp" />
         <item itemvalue="Application.mergeSort" />
-        <item itemvalue="Application.listExample1" />
         <item itemvalue="Application.sort" />
-        <item itemvalue="Application.beautyPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699948532941</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="sem1HW">
+      <option name="closed" value="true" />
+      <created>1700383808565</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1700383808565</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="name&amp;number" />
     <MESSAGE value="restructure" />
     <MESSAGE value="unnecessaryRemove" />
     <MESSAGE value="nameHours" />
@@ -437,6 +446,7 @@
     <MESSAGE value="palindrome1" />
     <MESSAGE value="sem2Ready" />
     <MESSAGE value="lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="lists" />
+    <MESSAGE value="sem1HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem1HW" />
   </component>
 </project>

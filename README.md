@@ -29,7 +29,7 @@
 
 ## SEM3 (lists):
 ### Lesson tasks:
-* listExample1: to fill the list with random numbers + sort;
+* listExample1: to fill the list (with random numbers) + sort;
 * listExample2/3: to fill the list and remove integers;
 * shopBook: ;
 ### Homework (autotests):
