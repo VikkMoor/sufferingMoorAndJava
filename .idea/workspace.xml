@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem3task3">
-      <change afterPath="$PROJECT_DIR$/seminars/sem3/lessonTasks/shopBook.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="shopBook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/mergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,26 +50,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.shopBook">
+  <component name="RunManager" selected="Application.mergeSort">
     <configuration name="bufreadtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.bufreadtest" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sem1.HW.readyMade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="listExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.listExample1" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem3.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.mergeSort" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="shopBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem3.lessonTasks.shopBook" />
       <module name="sufferingMoorAndJava" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.shopBook" />
         <item itemvalue="Application.listExample3" />
         <item itemvalue="Application.bufreadtest" />
         <item itemvalue="Application.listExample2" />
-        <item itemvalue="Application.listExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700389602864</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="shopBook">
+      <option name="closed" value="true" />
+      <created>1700390798650</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1700390798650</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,7 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nameHours" />
     <MESSAGE value="numbersInRow" />
     <MESSAGE value="equaltoend1" />
     <MESSAGE value="equaltoend2" />
@@ -463,6 +470,7 @@
     <MESSAGE value="sem1HW" />
     <MESSAGE value="sem3task2" />
     <MESSAGE value="sem3task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem3task3" />
+    <MESSAGE value="shopBook" />
+    <option name="LAST_COMMIT_MESSAGE" value="shopBook" />
   </component>
 </project>

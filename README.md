@@ -40,3 +40,36 @@
 * MergeSort;
 * Answer: method for remove even numbers from list;
 * Answer2: to sort list and find min/max/average;
+
+
+## SEM4:
+### Lesson tasks:
+* Task1: ;
+* Task2: ;
+* Task3: ;
+### Homework (autotests):
+* ;
+* ;
+* ;
+
+
+## SEM5:
+### Lesson tasks:
+* Task1: ;
+* Task2: ;
+* Task3: ;
+### Homework (autotests):
+* ;
+* ;
+* ;
+
+
+## SEM6:
+### Lesson tasks:
+* Task1: ;
+* Task2: ;
+* Task3: ;
+### Homework (autotests):
+* ;
+* ;
+* ;

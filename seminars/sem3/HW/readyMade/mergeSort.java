@@ -49,7 +49,7 @@ class mergeSort {
 
         if (args.length == 0) {
             // We can change this parameters in autotests:
-            a = new int[]{5, 1, 6, 2, 3, 4};
+            a = new int[]{5, 21, 6, 2, 3, 4, 10, 1};
         } else {
             a = Arrays.stream(args[0].split(", ")).mapToInt(Integer::parseInt).toArray();
         }
