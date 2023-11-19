@@ -24,14 +24,18 @@
 ### Homework (autotests):
 * Answer1: given a sql query string, generate it "where" part, using StringBuilder
   (if the value is 'null' then the parameter should not be included in the request);
-* BubbleSort: after each iteration code should write to a log file 'log.txt' in the format "year-month-day hour:minutes";
+* BubbleSort: after each iteration code should write to a log file 'log.txt'
+  (in the format "year-month-day hour:minutes");
 
 
 ## SEM3 (lists):
 ### Lesson tasks:
-* listExample1: to fill the list (with random numbers) + sort;
-* listExample2/3: to fill the list and remove integers (with iterator);
-* shopBook: ;
+* ListExample1: to fill the list (with random numbers) + sort;
+* ListExample2/3: to fill the list and remove integers (with iterator);
+* ShopBook: the bookstore catalog is saved as a two-dimensional list:
+  List<ArrayList<String>>, so that the 0th position of each internal list contains
+  the name of the genre, and the rest positions - book titles. Write a method
+  to populate this structure (but with only unique values);
 ### Homework (autotests):
 * MergeSort;
 * Answer: method for remove even numbers from list;
