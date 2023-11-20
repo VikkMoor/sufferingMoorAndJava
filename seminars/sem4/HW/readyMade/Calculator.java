@@ -3,6 +3,9 @@ package sem4.HW.readyMade;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+// Like in first seminar, but make it possible to undo the last operation
+//  and show the result of previous.
+
 class Calculator {
 
     private Deque<Integer> deque;
