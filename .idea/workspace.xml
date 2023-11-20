@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmes4t1">
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readme&amp;s4t2">
+      <change afterPath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/revertList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t1teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.s4t2">
+  <component name="RunManager" selected="Application.revertList">
     <configuration name="AnswerEvensTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.AnswerEvensTempl" />
       <module name="sufferingMoorAndJava" />
@@ -64,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="analyzeNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.analyzeNums" />
+    <configuration name="analyzeNumsTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.analyzeNumsTempl" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="PATTERN" value="sem3.HW.templates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="analyzeNumsTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.analyzeNumsTempl" />
+    <configuration name="revertList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.revertList" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.templates.*" />
+          <option name="PATTERN" value="sem4.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.revertList" />
         <item itemvalue="Application.s4t2" />
         <item itemvalue="Application.s4t1" />
         <item itemvalue="Application.analyzeNumsTempl" />
         <item itemvalue="Application.AnswerEvensTempl" />
-        <item itemvalue="Application.analyzeNums" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700403101746</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="readme&amp;s4t2">
+      <option name="closed" value="true" />
+      <created>1700404988524</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700404988524</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="calcTempl" />
     <MESSAGE value="sqlTemplReady" />
     <MESSAGE value="sqlReady" />
     <MESSAGE value="logger" />
@@ -559,6 +565,7 @@
     <MESSAGE value="s4t1edited" />
     <MESSAGE value="s4t1teacher" />
     <MESSAGE value="readmes4t1" />
-    <option name="LAST_COMMIT_MESSAGE" value="readmes4t1" />
+    <MESSAGE value="readme&amp;s4t2" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme&amp;s4t2" />
   </component>
 </project>
