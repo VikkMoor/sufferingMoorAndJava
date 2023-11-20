@@ -70,7 +70,8 @@
   - dequeue() - return the 1st element and delete it;
   - first() - return the 1st element without deleting;
   - getElements() - return all elements;
-* ;
+* Calculator: like in first seminar, but make it possible to undo the last operation
+  and show the result of previous;
 
 
 ## SEM5:
