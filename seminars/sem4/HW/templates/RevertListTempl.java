@@ -1,16 +1,16 @@
-package sem4.HW.readyMade;
+package sem4.HW.templates;
 
 import java.util.LinkedList;
 
 // To make the reverse LinkedList:
 
-class revertList {
+class RevertListTempl {
     public static LinkedList<Object> revert(LinkedList<Object> ll) {
-        LinkedList<Object> myList = new LinkedList<>();
-        for (int i = ll.size() - 1; i >= 0; i--) {
-            myList.add(ll.get(i));
+        LinkedList<Object> reversed = new LinkedList<>();
+        for (Object o : ll) {
+            reversed.addFirst(o);
         }
-        return (LinkedList<Object>) myList;
+        return reversed;
     }
 
 
@@ -18,12 +18,13 @@ class revertList {
     public static void main(String[] args) {
         LinkedList<Object> ll = new LinkedList<>();
 
+        // We can change this value and operator when check it in autotest:
         if (args.length == 0 || args.length != 4) {
-            // We can change this value and operator when check it in autotest:
             ll.add(1);
             ll.add("One");
             ll.add(2);
             ll.add("Two");
+            ll.add(3);
         } else {
             ll.add(Integer.parseInt(args[0]));
             ll.add(args[1]);
@@ -31,7 +32,7 @@ class revertList {
             ll.add(args[3]);
         }
 
-        revertList answer = new revertList();
+        RevertListTempl answer = new RevertListTempl();
         System.out.println(ll);
         LinkedList<Object> reversedList = answer.revert(ll);
         System.out.println(reversedList);
