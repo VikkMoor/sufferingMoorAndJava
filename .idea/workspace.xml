@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem4HW1templ">
-      <change afterPath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/MyQueue.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem4HW2">
+      <change afterPath="$PROJECT_DIR$/seminars/sem4/HW/templates/MyQueueTempl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/revertList.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/RevertList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/HW/templates/revertListTempl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/HW/templates/RevertListTempl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyQueueTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.HW.templates.MyQueueTempl" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem4.HW.templates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RevertList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.RevertList" />
       <module name="sufferingMoorAndJava" />
@@ -92,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s4t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t1" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="s4t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t2" />
       <module name="sufferingMoorAndJava" />
@@ -121,10 +118,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyQueue" />
+        <item itemvalue="Application.MyQueueTempl" />
         <item itemvalue="Application.RevertListTempl" />
         <item itemvalue="Application.RevertList" />
         <item itemvalue="Application.s4t2" />
-        <item itemvalue="Application.s4t1" />
       </list>
     </recent_temporary>
   </component>
@@ -136,14 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00003" summary="name&amp;number">
-      <option name="closed" value="true" />
-      <created>1699167466220</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1699167466220</updated>
     </task>
     <task id="LOCAL-00004" summary="restructure">
       <option name="closed" value="true" />
@@ -529,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700469698959</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="sem4HW2">
+      <option name="closed" value="true" />
+      <created>1700471615019</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700471615019</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="logger" />
     <MESSAGE value="readmelogger" />
     <MESSAGE value="sem2task2" />
     <MESSAGE value="zip" />
@@ -569,6 +565,7 @@
     <MESSAGE value="readme&amp;s4t2" />
     <MESSAGE value="sem4HW1" />
     <MESSAGE value="sem4HW1templ" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem4HW1templ" />
+    <MESSAGE value="sem4HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem4HW2" />
   </component>
 </project>
