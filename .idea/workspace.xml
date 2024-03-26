@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="s4t3writing">
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="s4t3stackReady">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t3.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t3.java" afterDir="false" />
     </list>
@@ -133,14 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00013" summary="primeTempl">
-      <option name="closed" value="true" />
-      <created>1699192092210</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192092210</updated>
     </task>
     <task id="LOCAL-00014" summary="prime">
       <option name="closed" value="true" />
@@ -526,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711481980110</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="s4t3stackReady">
+      <option name="closed" value="true" />
+      <created>1711483165473</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1711483165473</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="shopBook" />
     <MESSAGE value="edited readme and HW3" />
     <MESSAGE value="edited HW3" />
     <MESSAGE value="edited all homeworks" />
@@ -566,7 +565,8 @@
     <MESSAGE value="task1countEdited" />
     <MESSAGE value="task1countEdited(1)" />
     <MESSAGE value="s4t3writing" />
-    <option name="LAST_COMMIT_MESSAGE" value="s4t3writing" />
+    <MESSAGE value="s4t3stackReady" />
+    <option name="LAST_COMMIT_MESSAGE" value="s4t3stackReady" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
