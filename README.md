@@ -49,6 +49,8 @@
 
 ## SEM4:
 ### Lesson tasks:
+* task1count: Measure and compare the time it takes for 10000 (and then more) items to be added
+to *LinkedList* and *ArrayList*.
 * S4t1: receives a string of the form like: "text~num".
 
   Need to split the string by ~, save text's part into a linked list at position 'num'.
