@@ -1,6 +1,7 @@
 package sem4.lessonTasks;
 /* 1. Measure the time it takes for 10000 (and then more) items to be added to ArrayList;
-   2. Measure the time it takes for 10000 (and then more) items to be added to LinkedList
+   2. Measure the time it takes for 10000 (and then more) items to be added to LinkedList;
+   Try a few times and compare
  */
 
 import java.util.ArrayList;
