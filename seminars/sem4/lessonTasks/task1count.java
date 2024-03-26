@@ -19,7 +19,8 @@ public class task1count {
     private static long work(List<Integer> list) {
         long timeStart = System.currentTimeMillis();
         for (int i = 0; i < 100000; i++) {
-            //list.add(i); - adding to the end;
+            //list.add(i); - for adding elements to the end;
+            //list.add(list.size()/2, i); - for adding elements to the center;
             list.add(0, i);   // rn adding element is to the beginning;
         }
         long timeFinish = System.currentTimeMillis();
