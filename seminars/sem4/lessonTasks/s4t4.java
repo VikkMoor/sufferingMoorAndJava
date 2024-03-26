@@ -9,7 +9,14 @@ package sem4.lessonTasks;
 public class s4t4 {
     public static void main(String[] args) {
         MyStack stack = new MyStack();
-        stack.
-        System.out.println("Meow");
+        stack.push("1");
+        stack.push("2");
+        stack.push("3");
+        stack.push("4");
+
+        System.out.println(stack);
+        stack.pop();
+        stack.pop();
+        System.out.println(stack);
     }
 }
