@@ -65,7 +65,7 @@ to *LinkedList* and *ArrayList*.
   If 'revert' is entered, delete the previous text entered from memory.
 * s4t3: write a method to put an array of elements on the stack and output its contents to the console.
   And same for queue.
-* s4t4: make a stack using an array.
+* s4t4 (+ MyStack): make a stack using an array.
   Have to write methods:
   size(), empty(), peek(), pop().
 ### Homework (autotests):
