@@ -24,8 +24,10 @@
 * palindrome: made with one string replaces & reverse & so on;
 ### Homework (autotests):
 * Answer1: given a sql query string, generate it "where" part, using StringBuilder
+
   (if the value is 'null' then the parameter should not be included in the request);
 * BubbleSort: after each iteration code should write to a log file 'log.txt'
+
   (in the format "year-month-day hour:minutes");
 
 
@@ -34,9 +36,11 @@
 * ListExample1: to fill the list (with random numbers) + sort;
 * ListExample2/3: to fill the list and remove integers (with iterator);
 * ShopBook: the bookstore catalog is saved as a two-dimensional list:
+
   List<ArrayList<String>>, so that the 0th position of each internal list contains
-  the name of the genre, and the rest positions - book titles. Write a method
-  to populate this structure (but with only unique values);
+  the name of the genre, and the rest positions - book titles.
+  
+  Write a method to populate this structure (but with only unique values);
 ### Homework (autotests):
 * MergeSort;
 * Answer: method for remove even numbers from list;
@@ -45,13 +49,35 @@
 
 ## SEM4:
 ### Lesson tasks:
-* Task1: ;
-* Task2: ;
-* Task3: ;
+* task1count: Measure and compare the time it takes for 10000 (and then more) items to be added
+to *LinkedList* and *ArrayList*.
+* s4t1: receives a string of the form like: "text~num".
+
+  Need to split the string by ~, save text's part into a linked list at position 'num'.
+
+  If print~num is entered, have to show the string at position 'num' in the list and remove it.
+* s4t2: make the console application that:
+
+  Receives strings from the user and 'remembers' them.
+
+  If 'print' is entered, the string is output like LIFO.
+
+  If 'revert' is entered, delete the previous text entered from memory.
+* s4t3: write a method to put an array of elements on the stack and output its contents to the console.
+  And same for queue.
+* s4t4 (+ MyStack): make a stack using an array.
+  Have to write methods:
+  size(), empty(), peek(), pop().
 ### Homework (autotests):
-* ;
-* ;
-* ;
+* RevertList: to make the reverse LinkedList;
+* MyQueue:
+  In the class 'MyQueue' make next methods with LinkedList:
+  - enqueue() - put the element to the end;
+  - dequeue() - return the 1st element and delete it;
+  - first() - return the 1st element without deleting;
+  - getElements() - return all elements;
+* Calculator: like in first seminar, but make it possible to undo the last operation
+  and show the result of previous;
 
 
 ## SEM5:

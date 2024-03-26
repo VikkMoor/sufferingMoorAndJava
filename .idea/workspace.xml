@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem3analyze">
-      <change afterPath="$PROJECT_DIR$/seminars/sem3/HW/templates/analyzeNumsTempl.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="stackReady">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem3/HW/templates/AnswerEvensTempl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem3/HW/templates/AnswerEvensTempl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java projects/javaSemNew&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java projects/sufferingMoorAndJava",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
-  <component name="RunManager" selected="Application.analyzeNumsTempl">
-    <configuration name="AnswerEvens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.AnswerEvens" />
+}]]></component>
+  <component name="RunManager" selected="Application.s4t4">
+    <configuration name="s4t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t1" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnswerEvensTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.AnswerEvensTempl" />
+    <configuration name="s4t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t2" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.templates.*" />
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="analyzeNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.analyzeNums" />
+    <configuration name="s4t3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t3" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.readyMade.*" />
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="analyzeNumsTempl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.templates.analyzeNumsTempl" />
+    <configuration name="s4t4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t4" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem3.HW.templates.*" />
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.answer1" />
+    <configuration name="task1count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.task1count" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.analyzeNumsTempl" />
-        <item itemvalue="Application.AnswerEvensTempl" />
-        <item itemvalue="Application.analyzeNums" />
-        <item itemvalue="Application.AnswerEvens" />
-        <item itemvalue="Application.answer1" />
+        <item itemvalue="Application.s4t4" />
+        <item itemvalue="Application.s4t3" />
+        <item itemvalue="Application.s4t2" />
+        <item itemvalue="Application.s4t1" />
+        <item itemvalue="Application.task1count" />
       </list>
     </recent_temporary>
   </component>
@@ -134,142 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00001" summary="init">
-      <option name="closed" value="true" />
-      <created>1698614903087</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1698614903087</updated>
-    </task>
-    <task id="LOCAL-00002" summary="name&amp;number">
-      <option name="closed" value="true" />
-      <created>1699167411643</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1699167411643</updated>
-    </task>
-    <task id="LOCAL-00003" summary="name&amp;number">
-      <option name="closed" value="true" />
-      <created>1699167466220</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1699167466220</updated>
-    </task>
-    <task id="LOCAL-00004" summary="restructure">
-      <option name="closed" value="true" />
-      <created>1699167997949</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1699167997949</updated>
-    </task>
-    <task id="LOCAL-00005" summary="unnecessaryRemove">
-      <option name="closed" value="true" />
-      <created>1699168115156</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1699168115156</updated>
-    </task>
-    <task id="LOCAL-00006" summary="nameHours">
-      <option name="closed" value="true" />
-      <created>1699168426468</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1699168426468</updated>
-    </task>
-    <task id="LOCAL-00007" summary="numbersInRow">
-      <option name="closed" value="true" />
-      <created>1699168888674</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1699168888674</updated>
-    </task>
-    <task id="LOCAL-00008" summary="equaltoend1">
-      <option name="closed" value="true" />
-      <created>1699170109212</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170109212</updated>
-    </task>
-    <task id="LOCAL-00009" summary="equaltoend2">
-      <option name="closed" value="true" />
-      <created>1699170399169</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170399169</updated>
-    </task>
-    <task id="LOCAL-00010" summary="reverseSentence">
-      <option name="closed" value="true" />
-      <created>1699170804418</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170804418</updated>
-    </task>
-    <task id="LOCAL-00011" summary="bufferedworks!">
-      <option name="closed" value="true" />
-      <created>1699191098044</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1699191098044</updated>
-    </task>
-    <task id="LOCAL-00012" summary="answer">
-      <option name="closed" value="true" />
-      <created>1699191440256</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1699191440256</updated>
-    </task>
-    <task id="LOCAL-00013" summary="primeTempl">
-      <option name="closed" value="true" />
-      <created>1699192092210</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192092210</updated>
-    </task>
-    <task id="LOCAL-00014" summary="prime">
-      <option name="closed" value="true" />
-      <created>1699192285614</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192285614</updated>
-    </task>
-    <task id="LOCAL-00015" summary="prime">
-      <option name="closed" value="true" />
-      <created>1699192430720</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192430720</updated>
-    </task>
-    <task id="LOCAL-00016" summary="calculator">
-      <option name="closed" value="true" />
-      <created>1699192695368</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192695368</updated>
-    </task>
-    <task id="LOCAL-00017" summary="AnsTemp">
-      <option name="closed" value="true" />
-      <created>1699193221947</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1699193221947</updated>
     </task>
     <task id="LOCAL-00018" summary="primes">
       <option name="closed" value="true" />
@@ -479,7 +343,191 @@
       <option name="project" value="LOCAL" />
       <updated>1700397231632</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="sem3analyzeTempl">
+      <option name="closed" value="true" />
+      <created>1700398449976</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1700398449976</updated>
+    </task>
+    <task id="LOCAL-00045" summary="s4t1">
+      <option name="closed" value="true" />
+      <created>1700401226682</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1700401226682</updated>
+    </task>
+    <task id="LOCAL-00046" summary="s4t1edited">
+      <option name="closed" value="true" />
+      <created>1700401268438</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1700401268438</updated>
+    </task>
+    <task id="LOCAL-00047" summary="s4t1teacher">
+      <option name="closed" value="true" />
+      <created>1700402415564</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700402415564</updated>
+    </task>
+    <task id="LOCAL-00048" summary="readmes4t1">
+      <option name="closed" value="true" />
+      <created>1700403101746</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700403101746</updated>
+    </task>
+    <task id="LOCAL-00049" summary="readme&amp;s4t2">
+      <option name="closed" value="true" />
+      <created>1700404988524</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700404988524</updated>
+    </task>
+    <task id="LOCAL-00050" summary="sem4HW1">
+      <option name="closed" value="true" />
+      <created>1700469405423</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1700469405439</updated>
+    </task>
+    <task id="LOCAL-00051" summary="sem4HW1templ">
+      <option name="closed" value="true" />
+      <created>1700469698959</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1700469698959</updated>
+    </task>
+    <task id="LOCAL-00052" summary="sem4HW2">
+      <option name="closed" value="true" />
+      <created>1700471615019</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700471615019</updated>
+    </task>
+    <task id="LOCAL-00053" summary="sem4HW2templ">
+      <option name="closed" value="true" />
+      <created>1700475673701</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1700475673701</updated>
+    </task>
+    <task id="LOCAL-00054" summary="sem4HW3">
+      <option name="closed" value="true" />
+      <created>1700484377126</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1700484377126</updated>
+    </task>
+    <task id="LOCAL-00055" summary="sem4HW3Templ">
+      <option name="closed" value="true" />
+      <created>1700486439244</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1700486439244</updated>
+    </task>
+    <task id="LOCAL-00056" summary="task1count">
+      <option name="closed" value="true" />
+      <created>1711478732870</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1711478732871</updated>
+    </task>
+    <task id="LOCAL-00057" summary="task1countReady">
+      <option name="closed" value="true" />
+      <created>1711478887466</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711478887467</updated>
+    </task>
+    <task id="LOCAL-00058" summary="readmeSem4task1">
+      <option name="closed" value="true" />
+      <created>1711479369013</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1711479369013</updated>
+    </task>
+    <task id="LOCAL-00059" summary="task1countEdited">
+      <option name="closed" value="true" />
+      <created>1711480602103</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480602103</updated>
+    </task>
+    <task id="LOCAL-00060" summary="task1countEdited(1)">
+      <option name="closed" value="true" />
+      <created>1711480962685</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480962685</updated>
+    </task>
+    <task id="LOCAL-00061" summary="s4t3writing">
+      <option name="closed" value="true" />
+      <created>1711481980110</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481980110</updated>
+    </task>
+    <task id="LOCAL-00062" summary="s4t3stackReady">
+      <option name="closed" value="true" />
+      <created>1711483165473</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1711483165473</updated>
+    </task>
+    <task id="LOCAL-00063" summary="s4t3Ready">
+      <option name="closed" value="true" />
+      <created>1711484108306</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484108306</updated>
+    </task>
+    <task id="LOCAL-00064" summary="readmes4t3">
+      <option name="closed" value="true" />
+      <created>1711484293726</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484293726</updated>
+    </task>
+    <task id="LOCAL-00065" summary="s4t4task">
+      <option name="closed" value="true" />
+      <created>1711484610929</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484610929</updated>
+    </task>
+    <task id="LOCAL-00066" summary="stackReady">
+      <option name="closed" value="true" />
+      <created>1711485580785</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1711485580785</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,31 +542,41 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="primeTempl" />
-    <MESSAGE value="prime" />
-    <MESSAGE value="calculator" />
-    <MESSAGE value="AnsTemp" />
-    <MESSAGE value="primes" />
-    <MESSAGE value="calcTempl" />
-    <MESSAGE value="sqlTemplReady" />
-    <MESSAGE value="sqlReady" />
-    <MESSAGE value="logger" />
-    <MESSAGE value="readmelogger" />
-    <MESSAGE value="sem2task2" />
-    <MESSAGE value="zip" />
-    <MESSAGE value="palindrome1" />
-    <MESSAGE value="sem2Ready" />
-    <MESSAGE value="lists" />
-    <MESSAGE value="sem1HW" />
-    <MESSAGE value="sem3task2" />
-    <MESSAGE value="sem3task3" />
-    <MESSAGE value="shopBook" />
-    <MESSAGE value="edited readme and HW3" />
-    <MESSAGE value="edited HW3" />
-    <MESSAGE value="edited all homeworks" />
-    <MESSAGE value="sem3ansReady" />
     <MESSAGE value="sem3ansTempl" />
     <MESSAGE value="sem3analyze" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem3analyze" />
+    <MESSAGE value="sem3analyzeTempl" />
+    <MESSAGE value="s4t1" />
+    <MESSAGE value="s4t1edited" />
+    <MESSAGE value="s4t1teacher" />
+    <MESSAGE value="readmes4t1" />
+    <MESSAGE value="readme&amp;s4t2" />
+    <MESSAGE value="sem4HW1" />
+    <MESSAGE value="sem4HW1templ" />
+    <MESSAGE value="sem4HW2" />
+    <MESSAGE value="sem4HW2templ" />
+    <MESSAGE value="sem4HW3" />
+    <MESSAGE value="sem4HW3Templ" />
+    <MESSAGE value="task1count" />
+    <MESSAGE value="task1countReady" />
+    <MESSAGE value="readmeSem4task1" />
+    <MESSAGE value="task1countEdited" />
+    <MESSAGE value="task1countEdited(1)" />
+    <MESSAGE value="s4t3writing" />
+    <MESSAGE value="s4t3stackReady" />
+    <MESSAGE value="s4t3Ready" />
+    <MESSAGE value="readmes4t3" />
+    <MESSAGE value="s4t4task" />
+    <MESSAGE value="stackReady" />
+    <option name="LAST_COMMIT_MESSAGE" value="stackReady" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
