@@ -51,19 +51,21 @@
 ### Lesson tasks:
 * task1count: Measure and compare the time it takes for 10000 (and then more) items to be added
 to *LinkedList* and *ArrayList*.
-* S4t1: receives a string of the form like: "text~num".
+* s4t1: receives a string of the form like: "text~num".
 
   Need to split the string by ~, save text's part into a linked list at position 'num'.
 
   If print~num is entered, have to show the string at position 'num' in the list and remove it.
-* S4t2: make the console application that:
+* s4t2: make the console application that:
 
   Receives strings from the user and 'remembers' them.
 
   If 'print' is entered, the string is output like LIFO.
 
   If 'revert' is entered, delete the previous text entered from memory.
-* Task3: ;
+* s4t3: write a method to put an array of elements on the stack and output its contents to the console.
+  And same for queue.
+* s4t4:
 ### Homework (autotests):
 * RevertList: to make the reverse LinkedList;
 * MyQueue:
