@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmeSem4task1">
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/task1count.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/task1count.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="s4t3writing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t3.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,44 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java projects/sufferingMoorAndJava&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java projects/sufferingMoorAndJava",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
-  <component name="RunManager" selected="Application.task1count">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.Calculator" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem4.HW.readyMade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.MyQueue" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem4.HW.readyMade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.s4t3">
     <configuration name="RevertList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.RevertList" />
       <module name="sufferingMoorAndJava" />
@@ -101,6 +76,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="s4t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t2" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s4t3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t3" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task1count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.task1count" />
       <module name="sufferingMoorAndJava" />
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task1count" />
+        <item itemvalue="Application.s4t3" />
+        <item itemvalue="Application.s4t2" />
         <item itemvalue="Application.s4t1" />
+        <item itemvalue="Application.task1count" />
         <item itemvalue="Application.RevertList" />
-        <item itemvalue="Application.MyQueue" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -132,30 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00010" summary="reverseSentence">
-      <option name="closed" value="true" />
-      <created>1699170804418</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170804418</updated>
-    </task>
-    <task id="LOCAL-00011" summary="bufferedworks!">
-      <option name="closed" value="true" />
-      <created>1699191098044</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1699191098044</updated>
-    </task>
-    <task id="LOCAL-00012" summary="answer">
-      <option name="closed" value="true" />
-      <created>1699191440256</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1699191440256</updated>
     </task>
     <task id="LOCAL-00013" summary="primeTempl">
       <option name="closed" value="true" />
@@ -525,7 +502,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711479369013</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="task1countEdited">
+      <option name="closed" value="true" />
+      <created>1711480602103</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480602103</updated>
+    </task>
+    <task id="LOCAL-00060" summary="task1countEdited(1)">
+      <option name="closed" value="true" />
+      <created>1711480962685</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1711480962685</updated>
+    </task>
+    <task id="LOCAL-00061" summary="s4t3writing">
+      <option name="closed" value="true" />
+      <created>1711481980110</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481980110</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,9 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sem1HW" />
-    <MESSAGE value="sem3task2" />
-    <MESSAGE value="sem3task3" />
     <MESSAGE value="shopBook" />
     <MESSAGE value="edited readme and HW3" />
     <MESSAGE value="edited HW3" />
@@ -565,7 +563,10 @@
     <MESSAGE value="task1count" />
     <MESSAGE value="task1countReady" />
     <MESSAGE value="readmeSem4task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="readmeSem4task1" />
+    <MESSAGE value="task1countEdited" />
+    <MESSAGE value="task1countEdited(1)" />
+    <MESSAGE value="s4t3writing" />
+    <option name="LAST_COMMIT_MESSAGE" value="s4t3writing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
