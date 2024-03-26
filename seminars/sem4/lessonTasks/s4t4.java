@@ -8,6 +8,8 @@ package sem4.lessonTasks;
 
 public class s4t4 {
     public static void main(String[] args) {
+        MyStack stack = new MyStack();
+        stack.
         System.out.println("Meow");
     }
 }

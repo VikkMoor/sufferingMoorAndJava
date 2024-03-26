@@ -1,8 +1,8 @@
 package sem4.lessonTasks;
 
 public class MyStack {
-    String[] arr = new String[10];
-    int size = 0;
+    private String[] arr = new String[10];
+    private int size = 0;
 
     int size() {
         return size;
@@ -27,5 +27,20 @@ public class MyStack {
 
     String pop() {
         return arr[--size];
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("[");
+        if (!empty()){
+            stringBuilder.append(arr[size-1]);
+            for (int i = size - 2; i >= 0 ; i--) {
+                stringBuilder.append(", ");
+                stringBuilder.append(arr[i]);
+            }
+        }
+        stringBuilder.append("]");
+        return stringBuilder.toString();
     }
 }

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmes4t3">
-      <change afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="stackReady">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,22 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00016" summary="calculator">
-      <option name="closed" value="true" />
-      <created>1699192695368</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1699192695368</updated>
-    </task>
-    <task id="LOCAL-00017" summary="AnsTemp">
-      <option name="closed" value="true" />
-      <created>1699193221947</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1699193221947</updated>
     </task>
     <task id="LOCAL-00018" summary="primes">
       <option name="closed" value="true" />
@@ -526,7 +511,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711484293726</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="s4t4task">
+      <option name="closed" value="true" />
+      <created>1711484610929</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484610929</updated>
+    </task>
+    <task id="LOCAL-00066" summary="stackReady">
+      <option name="closed" value="true" />
+      <created>1711485580785</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1711485580785</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,8 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="edited all homeworks" />
-    <MESSAGE value="sem3ansReady" />
     <MESSAGE value="sem3ansTempl" />
     <MESSAGE value="sem3analyze" />
     <MESSAGE value="sem3analyzeTempl" />
@@ -566,7 +565,9 @@
     <MESSAGE value="s4t3stackReady" />
     <MESSAGE value="s4t3Ready" />
     <MESSAGE value="readmes4t3" />
-    <option name="LAST_COMMIT_MESSAGE" value="readmes4t3" />
+    <MESSAGE value="s4t4task" />
+    <MESSAGE value="stackReady" />
+    <option name="LAST_COMMIT_MESSAGE" value="stackReady" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
