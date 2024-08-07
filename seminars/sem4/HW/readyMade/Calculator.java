@@ -8,35 +8,35 @@ import java.util.Deque;
 
 class Calculator {
 
-    private Deque<Integer> deque;
+    public Deque<Double> resultsStack = new ArrayDeque<>();
+    public double prevResult;
 
-    public Calculator() {
-        deque = new ArrayDeque<>();
-    }
-
-    public int calculate(char op, int a, int b) {
-
+    public double calculate(char op, int a, int b) {
+        // Напишите свое решение ниже
+       Double c = Double.valueOf(a);
+       Double d = Double.valueOf(b);
+      
         switch (op) {
             case '+':
-                deque.add(a + b);
+                resultsStack.add(c + d);
                 break;
             case '-':
-                deque.add(a - b);
+                resultsStack.add(c - d);
                 break;
             case '*':
-                deque.add(a * b);
+                resultsStack.add(c * d);
                 break;
             case '/':
-                deque.add(a / b);
+                resultsStack.add(c / d);
                 break;
             case '<':
-                deque.removeLast();
+                resultsStack.removeLast();
                 break;
             default:
-                System.out.println("Uncorrect operator: '" + op + "'");
+                System.out.println("Некорректный оператор: 'оператор'");
                 break;
         }
-        return deque.getLast();
+        return resultsStack.getLast();
 
     }
 
@@ -46,9 +46,9 @@ class Calculator {
         char op, op2, undo;
 
         if (args.length == 0) {
-            // We can change this value and operator when check it in autotest:
+        // При отправке кода на Выполнение, вы можете варьировать эти параметры
             a = 3;
-            op = '*';
+            op = '+';
             b = 7;
             c = 4;
             op2 = '+';
@@ -65,11 +65,11 @@ class Calculator {
         }
 
         Calculator calculator = new Calculator();
-        int result = calculator.calculate(op, a, b);
+        double result = calculator.calculate(op, a, b);
         System.out.println(result);
-        int result2 = calculator.calculate(op2, c, d);
+        double result2 = calculator.calculate(op2, c, d);
         System.out.println(result2);
-        int prevResult = calculator.calculate(undo, 0, 0);
+        double prevResult = calculator.calculate(undo, 0, 0);
         System.out.println(prevResult);
     }
 }
