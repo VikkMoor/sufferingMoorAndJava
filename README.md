@@ -81,21 +81,15 @@ to *LinkedList* and *ArrayList*.
 
 
 ## SEM5:
-### Lesson tasks:
-* Task1: ;
-* Task2: ;
-* Task3: ;
+
 ### Homework (autotests):
-* ;
-* ;
-* ;
+* PhoneBook;
+* NamesCounter;
+* HeapSort;
 
 
 ## SEM6:
-### Lesson tasks:
-* Task1: ;
-* Task2: ;
-* Task3: ;
+
 ### Homework (autotests):
 * ;
 * ;
