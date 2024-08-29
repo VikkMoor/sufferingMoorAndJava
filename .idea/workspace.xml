@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="stackReady">
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmeSem4Ready">
+      <change afterPath="$PROJECT_DIR$/seminars/sem5/HW/readyMade/PhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/lessonTasks/s4t4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/analyzeNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/analyzeNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="sem4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,13 +54,13 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.s4t4">
-    <configuration name="s4t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t1" />
+  <component name="RunManager" selected="Application.PhoneBook">
+    <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Answer" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="PATTERN" value="sem1.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s4t2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t2" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Calculator" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="PATTERN" value="sem1.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s4t3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t3" />
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem5.HW.readyMade.PhoneBook" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="PATTERN" value="sem5.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="s4t4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.s4t4" />
+    <configuration name="analyzeNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.analyzeNums" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="PATTERN" value="sem3.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem4.lessonTasks.task1count" />
+    <configuration name="sem4.HW.readyMade.Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem4.HW.readyMade.Calculator" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem4.lessonTasks.*" />
+          <option name="PATTERN" value="sem4.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.s4t4" />
-        <item itemvalue="Application.s4t3" />
-        <item itemvalue="Application.s4t2" />
-        <item itemvalue="Application.s4t1" />
-        <item itemvalue="Application.task1count" />
+        <item itemvalue="Application.PhoneBook" />
+        <item itemvalue="Application.sem4.HW.readyMade.Calculator" />
+        <item itemvalue="Application.analyzeNums" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Answer" />
       </list>
     </recent_temporary>
   </component>
@@ -568,15 +572,5 @@
     <MESSAGE value="s4t4task" />
     <MESSAGE value="stackReady" />
     <option name="LAST_COMMIT_MESSAGE" value="stackReady" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.NoSuchElementException" package="java.util" />
-          <option name="timeStamp" value="5" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

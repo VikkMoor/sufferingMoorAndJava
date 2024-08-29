@@ -1,15 +1,23 @@
 package sem1.HW.readyMade;
 //autotests bout prime numbers
 
+import java.util.ArrayList;
+
 class Answer {
     public void printPrimeNums() {
-        for (int i = 2; i < 1001; i++) {
-            int k = 0;
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list.add(2);
+        boolean flag = true;
 
-            for (int j = 2; j <= i; j++) {
-                if (i % j == 0) k++;
+        for (int i = 3; i < 1000; i++) {
+            flag = true;
+            for (int j = 0; j < list.size(); j++) {
+                if (i % list.get(j) == 0) {flag = false; break;}
             }
-            if (k < 2) System.out.println(i);
+            if (flag == true) {list.add(i);}
+        }
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i));
         }
     }
     // It was the other class here for checking and displaying the result on the screen in autotests:

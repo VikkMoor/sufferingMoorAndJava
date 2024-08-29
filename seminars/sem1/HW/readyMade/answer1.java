@@ -5,10 +5,11 @@ package sem1.HW.readyMade;
 public class answer1 {
     public int countNTriangle(int n) {
         int sum = 0;
-        for (int i = 1; i <= n; i++) {
-            sum += i;
+        if (n < 0) return -1;
+        else {
+            for (int i = 1; i <= n; i++) sum += i;
+            return sum;
         }
-        return sum;
     }
 
     // It was the other class here for checking and displaying the result on the screen in autotests:

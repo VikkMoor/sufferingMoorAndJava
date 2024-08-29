@@ -5,27 +5,31 @@ package sem1.HW.readyMade;
 import java.io.BufferedReader;
 
 class Calculator {
-    public int calculate(char op, int a, int b) {
-        int ans = 0;
-        if (op == '+') {
-            ans = a + b;
-        } else if (op == '-') {
-            ans = a - b;
-        } else if (op == '*') {
-            ans = a * b;
-        } else if (op == '/') {
-            ans = a / b;
-        } else {
-            System.out.println("Unknown operator: '" + op + "'");
+    public double calculate(char op, int a, int b) {
+        double res = 0;
+        switch (op) {
+            case '+':
+                res = a + b;
+                break;
+            case '-':
+                res = a - b;
+                break;
+            case '*':
+                res = a * b;
+                break;
+            case '/':
+                if (b == 0) return - 1;
+                else res = a / b;
+                break;
         }
-        return ans;
+        return res;
     }
 
     // It was the other class here for checking and displaying the result on the screen in autotests:
     public static void main(String[] args) {
-        int a;
-        char op;
-        int b;
+        int a = 0;
+        char op = ' ';
+        int b = 0;
 
         if (args.length == 0) {
             // we can change these values and operator when check it in autotest:
@@ -38,8 +42,13 @@ class Calculator {
             b = Integer.parseInt(args[2]);
         }
 
+        // Add the checking for correct operator:
+        if (op != '+' && op != '/' && op != '-' && op != '*') {
+            System.out.println("Unknown operator:" + op);
+        }
+
         Calculator calculator = new Calculator();
-        int result = calculator.calculate(op, a, b);
+        double result = calculator.calculate(op, a, b);
         System.out.println(result);
     }
 }
