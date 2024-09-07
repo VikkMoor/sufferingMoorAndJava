@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem5">
-      <change afterPath="$PROJECT_DIR$/seminars/sem6/Laptop.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem6 laptop">
+      <change afterPath="$PROJECT_DIR$/seminars/sem6/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem6/LaptopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,14 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00022" summary="sqlReady">
-      <option name="closed" value="true" />
-      <created>1699195237804</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1699195237804</updated>
     </task>
     <task id="LOCAL-00023" summary="sqlReady">
       <option name="closed" value="true" />
@@ -526,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724951209724</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="sem6 laptop">
+      <option name="closed" value="true" />
+      <created>1725708737837</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1725708737837</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="s4t1edited" />
     <MESSAGE value="s4t1teacher" />
     <MESSAGE value="readmes4t1" />
     <MESSAGE value="readme&amp;s4t2" />
@@ -566,6 +567,7 @@
     <MESSAGE value="sem5 task6" />
     <MESSAGE value="sem5 task3" />
     <MESSAGE value="sem5" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem5" />
+    <MESSAGE value="sem6 laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem6 laptop" />
   </component>
 </project>
