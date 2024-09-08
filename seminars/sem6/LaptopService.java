@@ -45,9 +45,10 @@ public class LaptopService {
         return result;
     }
 
-    public Set<Laptop> getLaptops() {
-        return laptops;
-    }
+    // Just for test:
+    //public Set<Laptop> getLaptops() {
+    //    return laptops;
+    //}
 
     @Override
     public String toString() {
