@@ -3,7 +3,6 @@ package sem6;
 import java.util.Objects;
 
 public class Laptop {
-
     private String name;
     private String os;
     private Integer ram;
@@ -34,17 +33,7 @@ public class Laptop {
 
     @Override
     public String toString() {
-        StringBuilder sb = new StringBuilder();
-        sb.append("Device Name: ");
-        sb.append(name);
-        sb.append(" (OS: ");
-        sb.append(os);
-        sb.append(", RAM: ");
-        sb.append(ram);
-        sb.append(", color: ");
-        sb.append(color);
-        sb.append(")");
-        return sb.toString();
+        return "Device Name: " + name + " (OS: " + os + ", RAM: " + ram + ", color: " + color + ")";
     }
 
     @Override
@@ -52,11 +41,14 @@ public class Laptop {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Laptop laptop = (Laptop) o;
-        return Objects.equals(getName(), laptop.getName()) && Objects.equals(getOs(), laptop.getOs()) && Objects.equals(getRam(), laptop.getRam()) && Objects.equals(getColor(), laptop.getColor());
+        return Objects.equals(name, laptop.name) &&
+                Objects.equals(os, laptop.os) &&
+                Objects.equals(ram, laptop.ram) &&
+                Objects.equals(color, laptop.color);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getName(), getOs(), getRam(), getColor());
+        return Objects.hash(name, os, ram, color);
     }
 }
