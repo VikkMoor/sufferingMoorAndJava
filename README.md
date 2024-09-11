@@ -90,4 +90,4 @@ to *LinkedList* and *ArrayList*.
 
 ## SEM6:
 
-Final work!: laptops amd filtration
+Final work!: laptops and filtration
