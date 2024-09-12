@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="readmeSem4Ready">
-      <change afterPath="$PROJECT_DIR$/seminars/sem5/HW/readyMade/PhoneBook.java" afterDir="false" />
+    <list default="true" id="7ff8a65a-8926-4c78-8ba0-50b5b1ab8748" name="Changes" comment="sem6 print works ;)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem1/HW/readyMade/answer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/analyzeNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem3/HW/readyMade/analyzeNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem4/HW/readyMade/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem6/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem6/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem6/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem6/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem6/LaptopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem6/LaptopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sem4" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java projects/sufferingMoorAndJava",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java projects/sufferingMoorAndJava&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PhoneBook">
-    <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Answer" />
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem5.HW.readyMade.HeapSort" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem5.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem1.HW.readyMade.Calculator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem6.Main" />
       <module name="sufferingMoorAndJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem1.HW.readyMade.*" />
+          <option name="PATTERN" value="sem6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamesCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem5.HW.readyMade.NamesCounter" />
+      <module name="sufferingMoorAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem5.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +98,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sem5.HW.readyMade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="analyzeNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem3.HW.readyMade.analyzeNums" />
-      <module name="sufferingMoorAndJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem3.HW.readyMade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhoneBook" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.sem4.HW.readyMade.Calculator" />
-        <item itemvalue="Application.analyzeNums" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Answer" />
+        <item itemvalue="Application.PhoneBook" />
+        <item itemvalue="Application.NamesCounter" />
+        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -138,62 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698597830777</updated>
-    </task>
-    <task id="LOCAL-00018" summary="primes">
-      <option name="closed" value="true" />
-      <created>1699193533628</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1699193533628</updated>
-    </task>
-    <task id="LOCAL-00019" summary="calcTempl">
-      <option name="closed" value="true" />
-      <created>1699194032121</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1699194032121</updated>
-    </task>
-    <task id="LOCAL-00020" summary="sqlTemplReady">
-      <option name="closed" value="true" />
-      <created>1699194943513</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1699194943513</updated>
-    </task>
-    <task id="LOCAL-00021" summary="sqlTemplReady">
-      <option name="closed" value="true" />
-      <created>1699195132923</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1699195132923</updated>
-    </task>
-    <task id="LOCAL-00022" summary="sqlReady">
-      <option name="closed" value="true" />
-      <created>1699195237804</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1699195237804</updated>
-    </task>
-    <task id="LOCAL-00023" summary="sqlReady">
-      <option name="closed" value="true" />
-      <created>1699195374765</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1699195374766</updated>
-    </task>
-    <task id="LOCAL-00024" summary="sqlReady">
-      <option name="closed" value="true" />
-      <created>1699195545479</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1699195545479</updated>
     </task>
     <task id="LOCAL-00025" summary="sqlReady">
       <option name="closed" value="true" />
@@ -531,7 +473,63 @@
       <option name="project" value="LOCAL" />
       <updated>1711485580785</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="lil renovation + sem5">
+      <option name="closed" value="true" />
+      <created>1724949409282</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1724949409282</updated>
+    </task>
+    <task id="LOCAL-00068" summary="sem5 task6">
+      <option name="closed" value="true" />
+      <created>1724950021042</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1724950021042</updated>
+    </task>
+    <task id="LOCAL-00069" summary="sem5 task3">
+      <option name="closed" value="true" />
+      <created>1724951023837</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1724951023837</updated>
+    </task>
+    <task id="LOCAL-00070" summary="sem5">
+      <option name="closed" value="true" />
+      <created>1724951209724</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1724951209724</updated>
+    </task>
+    <task id="LOCAL-00071" summary="sem6 laptop">
+      <option name="closed" value="true" />
+      <created>1725708737837</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1725708737837</updated>
+    </task>
+    <task id="LOCAL-00072" summary="sem6 classes">
+      <option name="closed" value="true" />
+      <created>1725714084307</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1725714084307</updated>
+    </task>
+    <task id="LOCAL-00073" summary="sem6 print works ;)">
+      <option name="closed" value="true" />
+      <created>1725780653090</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1725780653090</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,13 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sem3ansTempl" />
-    <MESSAGE value="sem3analyze" />
-    <MESSAGE value="sem3analyzeTempl" />
-    <MESSAGE value="s4t1" />
-    <MESSAGE value="s4t1edited" />
-    <MESSAGE value="s4t1teacher" />
-    <MESSAGE value="readmes4t1" />
     <MESSAGE value="readme&amp;s4t2" />
     <MESSAGE value="sem4HW1" />
     <MESSAGE value="sem4HW1templ" />
@@ -571,6 +562,18 @@
     <MESSAGE value="readmes4t3" />
     <MESSAGE value="s4t4task" />
     <MESSAGE value="stackReady" />
-    <option name="LAST_COMMIT_MESSAGE" value="stackReady" />
+    <MESSAGE value="lil renovation + sem5" />
+    <MESSAGE value="sem5 task6" />
+    <MESSAGE value="sem5 task3" />
+    <MESSAGE value="sem5" />
+    <MESSAGE value="sem6 laptop" />
+    <MESSAGE value="sem6 classes" />
+    <MESSAGE value="sem6 print works ;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem6 print works ;)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sufferingMoorAndJava$Main.ic" NAME="Main Coverage Results" MODIFIED="1725789356733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sem6.*</FILTER>
+    </SUITE>
   </component>
 </project>
